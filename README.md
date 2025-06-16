@@ -1,4 +1,4 @@
-<h1 align="center">🌟 FanIsSoCute - 𝘿𝙞𝙨𝙘𝙤𝙧𝙙 𝙍𝙋𝙂 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 🌟</h1>
+<h1 align="center">🌟 Fan - 𝘿𝙞𝙨𝙘𝙤𝙧𝙙 𝙍𝙋𝙂 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 🌟</h1>
 
 ###
 
